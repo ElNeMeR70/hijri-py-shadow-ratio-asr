@@ -1,0 +1,7 @@
+[project]
+name = "hijri-py-shadow-ratio-asr"
+version = "1.0.0"
+description = "Gnomon Shadow Ratio Solver for Shafi'i/Maliki/Hanbali (1x) vs Hanafi (2x) Asr (حاسبة طول الظل ومقياس العصر الشافعي والحنفي)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
